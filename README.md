@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 Tela com incentivo a exercicios físicos  .
--[Visite o projeto online](https://github.com/pedroqueirozs/projeto02HtmlExplorer)
+-[Visite o projeto online](https://pedroqueirozs.github.io/projeto03HtmlExplorer/)
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK] https://www.figma.com/file/GkBHpOT26XByiZCUguNT2M/Explorer---Projeto-02-(Copy)?node-id=1%3A5&t=e9idtrgx2ARti4I8-0. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
